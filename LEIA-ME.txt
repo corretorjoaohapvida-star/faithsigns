@@ -1,0 +1,11 @@
+FAITH & SIGNS - PAGINA DE VENDAS
+
+Publique os arquivos desta pasta com index.html na raiz.
+Starter: https://pay.kiwify.com/je6uHUS
+Complete: https://pay.kiwify.com.br/gcGHYy5
+Pixel Meta: 2040038789991227
+Eventos: PageView na visita e InitiateCheckout nos botoes dos planos.
+O preco final aparece no checkout para evitar divergencias.
+Os PDFs dos compradores nao fazem parte deste pacote publico.
+Esta entrega atualiza a pagina local e inclui o pacote para publicacao manual; nao altera automaticamente faithsigns.vercel.app.
+A verificacao por navegador ficou bloqueada por uma permissao salva. Os arquivos, caminhos de imagens, links, sintaxe JS e integridade do ZIP foram checados.
